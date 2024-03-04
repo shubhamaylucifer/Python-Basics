@@ -1,0 +1,11 @@
+First Line
+Second Line
+Third Line
+Fourth Line
+
+
+pip install virtualenv
+virtualenv fastapi
+fastapi\Scripts\activate
+pip install fastapi
+pip install "uvicorn[standard]"

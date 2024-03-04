@@ -1,0 +1,8 @@
+{
+    "name" : {
+        "firstName" : "Shubhamay",
+        "lastName" : "Sarkar"
+    },
+    "location" : "Bangalore",
+    "languages" : ["Hindi","English","Bengali"]
+}
